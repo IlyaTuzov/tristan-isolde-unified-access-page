@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T13:41:13Z",
+  "generated_at": "2026-09-14T07:10:57Z",
   "source": "GitHub REST API + GitLab REST API (pre-computed)",
   "repos": {
     "github.com/absint/compcert": {
@@ -265,8 +265,8 @@
       "default_branch": "main",
       "pushed_at": "2026-06-10T08:24:44Z",
       "archived": false,
-      "fetched_at": "2026-09-11T13:39:55Z",
-      "etag": "\"2705d793d250625af07624137789be62ee4bcefcd5c61d6192e312f49b11cd34\""
+      "fetched_at": "2026-09-14T07:10:57Z",
+      "etag": "\"bc7010b45443048f45839235fb7d5304c192d8ba1ee49a18eb4f1df901e55c25\""
     },
     "github.com/eeeslab/corev-binutils-gdb": {
       "repo": "github.com/EEESlab/corev-binutils-gdb",
