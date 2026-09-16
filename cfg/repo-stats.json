@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T07:10:57Z",
+  "generated_at": "2026-09-16T10:05:21Z",
   "source": "GitHub REST API + GitLab REST API (pre-computed)",
   "repos": {
     "github.com/absint/compcert": {
@@ -230,6 +230,25 @@
       "fetched_at": "2026-09-11T13:40:21Z",
       "etag": "\"397ab6ef5d2ba979011faf03706b480a5361d5bea2dda4bda99579c6378c9a66\""
     },
+    "github.com/chipsalliance/rocket-chip": {
+      "repo": "github.com/chipsalliance/rocket-chip",
+      "provider": "github",
+      "host": "github.com",
+      "html_url": "https://github.com/chipsalliance/rocket-chip",
+      "stars": 3865,
+      "forks": 1301,
+      "watchers": 194,
+      "open_issues": 347,
+      "commits": 9089,
+      "contributors": 189,
+      "language": "Scala",
+      "license_spdx_id": "NOASSERTION",
+      "default_branch": "master",
+      "pushed_at": "2026-09-13T01:04:13Z",
+      "archived": false,
+      "fetched_at": "2026-09-16T10:05:13Z",
+      "etag": "\"d73350cebcd8ca5b1fc9aab590bcba2e7aa73dbf32e064815c68444240653085\""
+    },
     "github.com/cpc/openasip": {
       "repo": "github.com/cpc/openasip",
       "provider": "github",
@@ -249,6 +268,44 @@
       "fetched_at": "2026-09-11T13:41:05Z",
       "etag": "\"1de6d422bf2b2f544bf8fa4256867a5814af8d6762624472c04cf39d5d7b08aa\""
     },
+    "github.com/des-cei/eros": {
+      "repo": "github.com/des-cei/eros",
+      "provider": "github",
+      "host": "github.com",
+      "html_url": "https://github.com/des-cei/eros",
+      "stars": 3,
+      "forks": 2,
+      "watchers": 1,
+      "open_issues": 0,
+      "commits": 25,
+      "contributors": 1,
+      "language": "SystemVerilog",
+      "license_spdx_id": null,
+      "default_branch": "main",
+      "pushed_at": "2026-09-14T16:14:37Z",
+      "archived": false,
+      "fetched_at": "2026-09-16T10:05:06Z",
+      "etag": "\"f86ac4c8b37bd19ecaf26d042630a62efeeaf4ea3c1ed8ced5c8715e465fdbea\""
+    },
+    "github.com/des-cei/strela": {
+      "repo": "github.com/des-cei/strela",
+      "provider": "github",
+      "host": "github.com",
+      "html_url": "https://github.com/des-cei/strela",
+      "stars": 5,
+      "forks": 2,
+      "watchers": 0,
+      "open_issues": 0,
+      "commits": 23,
+      "contributors": 1,
+      "language": "SystemVerilog",
+      "license_spdx_id": "NOASSERTION",
+      "default_branch": "main",
+      "pushed_at": "2025-05-05T17:57:13Z",
+      "archived": false,
+      "fetched_at": "2026-09-16T10:05:08Z",
+      "etag": "\"2bc508db834e18d8eb201755f0c4ad0bb442a990b61532290bc4eabf6ae92708\""
+    },
     "github.com/edge-group-polito/keccak": {
       "repo": "github.com/edge-group-polito/keccak",
       "provider": "github",
@@ -265,8 +322,8 @@
       "default_branch": "main",
       "pushed_at": "2026-06-10T08:24:44Z",
       "archived": false,
-      "fetched_at": "2026-09-14T07:10:57Z",
-      "etag": "\"bc7010b45443048f45839235fb7d5304c192d8ba1ee49a18eb4f1df901e55c25\""
+      "fetched_at": "2026-09-16T10:05:21Z",
+      "etag": "\"d91ae583682647cb251cd2efbb04e82df959f1efc90c27f3f8369501fba86f40\""
     },
     "github.com/eeeslab/corev-binutils-gdb": {
       "repo": "github.com/EEESlab/corev-binutils-gdb",
@@ -533,6 +590,44 @@
       "archived": false,
       "fetched_at": "2026-09-11T13:39:07Z",
       "etag": "\"ae90e7a083a548352319de515b168055caceaf08d97b1daf6ec7f97db0be29b1\""
+    },
+    "github.com/hep-soc/socmake": {
+      "repo": "github.com/HEP-SoC/SoCMake",
+      "provider": "github",
+      "host": "github.com",
+      "html_url": "https://github.com/HEP-SoC/SoCMake",
+      "stars": 45,
+      "forks": 7,
+      "watchers": 4,
+      "open_issues": 21,
+      "commits": 540,
+      "contributors": 16,
+      "language": "CMake",
+      "license_spdx_id": "LGPL-3.0",
+      "default_branch": "master",
+      "pushed_at": "2026-08-31T14:24:10Z",
+      "archived": false,
+      "fetched_at": "2026-09-16T10:05:18Z",
+      "etag": "\"0ebc43c6dfe81263a183c333ec747e060ae4095bd6aee458064a02b59ecd9215\""
+    },
+    "github.com/itiv-kit/flexnngine": {
+      "repo": "github.com/itiv-kit/flexnngine",
+      "provider": "github",
+      "host": "github.com",
+      "html_url": "https://github.com/itiv-kit/flexnngine",
+      "stars": 17,
+      "forks": 2,
+      "watchers": 0,
+      "open_issues": 0,
+      "commits": 505,
+      "contributors": 6,
+      "language": "VHDL",
+      "license_spdx_id": "MIT",
+      "default_branch": "main",
+      "pushed_at": "2026-02-20T13:36:32Z",
+      "archived": false,
+      "fetched_at": "2026-09-16T10:05:15Z",
+      "etag": "\"5099e5cc3db115c78a09dd22f4d2062786e25b136510bd2cb4c70850d7020c28\""
     },
     "github.com/kactus2/kactus2dev": {
       "repo": "github.com/kactus2/kactus2dev",
@@ -837,6 +932,25 @@
       "archived": false,
       "fetched_at": "2026-09-11T13:39:24Z",
       "etag": "\"806865a67bd5b77ba137cbd2006b55e8a717b400375d2d3175ac598f059a7059\""
+    },
+    "github.com/openhwgroup/cva6-dcls": {
+      "repo": "github.com/openhwgroup/cva6-dcls",
+      "provider": "github",
+      "host": "github.com",
+      "html_url": "https://github.com/openhwgroup/cva6-dcls",
+      "stars": 2,
+      "forks": 2,
+      "watchers": 0,
+      "open_issues": 3,
+      "commits": 4,
+      "contributors": 1,
+      "language": null,
+      "license_spdx_id": "NOASSERTION",
+      "default_branch": "main",
+      "pushed_at": "2026-06-03T12:48:19Z",
+      "archived": false,
+      "fetched_at": "2026-09-16T10:05:04Z",
+      "etag": "\"dcfb0f498b96c35f581ed4024bb9f9851ffe0b4e345bac139f1a975010cb1065\""
     },
     "github.com/openhwgroup/cve2": {
       "repo": "github.com/openhwgroup/cve2",
@@ -1161,6 +1275,25 @@
       "fetched_at": "2026-09-11T13:40:38Z",
       "etag": "\"5e26b2e01b93ce69a1424e72de748ab3f9deb7e2af42ab49efed9ef625606ccb\""
     },
+    "github.com/schoeberl/wildcat": {
+      "repo": "github.com/schoeberl/wildcat",
+      "provider": "github",
+      "host": "github.com",
+      "html_url": "https://github.com/schoeberl/wildcat",
+      "stars": 54,
+      "forks": 12,
+      "watchers": 3,
+      "open_issues": 1,
+      "commits": 333,
+      "contributors": 4,
+      "language": "Scala",
+      "license_spdx_id": "BSD-2-Clause",
+      "default_branch": "master",
+      "pushed_at": "2026-07-14T06:48:33Z",
+      "archived": false,
+      "fetched_at": "2026-09-16T10:05:16Z",
+      "etag": "\"3cc595a1338fdb1b025280d861752dc06c5715034160d6c58195bd891592272e\""
+    },
     "github.com/semify-eda/tristan": {
       "repo": "github.com/semify-eda/tristan",
       "provider": "github",
@@ -1236,6 +1369,25 @@
       "archived": false,
       "fetched_at": "2026-09-11T13:41:13Z",
       "etag": "\"4a8bc2b6e4f71fb7c8825615ab8f24f5a86f4ec2c2032fc5e411f737ccb44c33\""
+    },
+    "github.com/t-crest/soc-comm": {
+      "repo": "github.com/t-crest/soc-comm",
+      "provider": "github",
+      "host": "github.com",
+      "html_url": "https://github.com/t-crest/soc-comm",
+      "stars": 13,
+      "forks": 6,
+      "watchers": 4,
+      "open_issues": 0,
+      "commits": 229,
+      "contributors": 2,
+      "language": "Scala",
+      "license_spdx_id": "BSD-2-Clause",
+      "default_branch": "master",
+      "pushed_at": "2026-07-20T18:19:15Z",
+      "archived": false,
+      "fetched_at": "2026-09-16T10:05:11Z",
+      "etag": "\"7cc732e801c0639d8ae17f237d87ae2e6616914909e415f6f1a260c5508bf002\""
     },
     "github.com/thalesgroup/cva6-eclipse-demo": {
       "repo": "github.com/ThalesGroup/cva6-eclipse-demo",
@@ -1331,6 +1483,25 @@
       "archived": false,
       "fetched_at": "2026-09-11T13:39:16Z",
       "etag": "\"12f9685fd86a12bd7267814966875606b3c446db0f111e76211ea16372e2d0bb\""
+    },
+    "github.com/vproc/vicuna2_core": {
+      "repo": "github.com/vproc/vicuna2_core",
+      "provider": "github",
+      "host": "github.com",
+      "html_url": "https://github.com/vproc/vicuna2_core",
+      "stars": 21,
+      "forks": 15,
+      "watchers": 3,
+      "open_issues": 3,
+      "commits": 171,
+      "contributors": 5,
+      "language": "SystemVerilog",
+      "license_spdx_id": null,
+      "default_branch": "main",
+      "pushed_at": "2026-09-15T09:36:45Z",
+      "archived": false,
+      "fetched_at": "2026-09-16T10:05:10Z",
+      "etag": "\"d90792b92a534faa275d7cae4008b3077babf37ce39895d822c2e51d3ca2b425\""
     },
     "github.com/yongatek/efpga": {
       "repo": "github.com/yongatek/eFPGA",
@@ -1450,6 +1621,7 @@
   "errors": {
     "github.com/hash2100/isolde-workbench": "HTTP 404",
     "github.com/orgs/cea-list": "HTTP 404",
+    "gitlab.cern.ch/iod/pixesl-group": "HTTP 404",
     "gitlab.com/catalin.ciobanu/polymem_system_verilog": "HTTP 404"
   }
 }
